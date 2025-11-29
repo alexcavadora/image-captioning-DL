@@ -50,7 +50,10 @@ def parse_args():
         help="Vocabulary pickle file",
     )
     parser.add_argument(
-        "--output-dir", type=str, default="outputs", help="Directory to save outputs"
+        "--output-dir",
+        type=str,
+        default="outputs/base_model",
+        help="Directory to save outputs",
     )
 
     # Model parameters

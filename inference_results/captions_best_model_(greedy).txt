@@ -1,0 +1,30 @@
+Image Captioning Results - best_model (Greedy)
+============================================================
+
+Image: COCO_test2014_000000076115.jpg
+Caption: a bus a and bus a
+
+Image: COCO_test2014_000000137739.jpg
+Caption: a of and pizza a of on table. a of
+
+Image: COCO_test2014_000000218045.jpg
+Caption: a of man a and on tennis
+
+Image: COCO_test2014_000000295307.jpg
+Caption: a of with on beach a and
+
+Image: COCO_test2014_000000298866.jpg
+Caption: a of baseball in baseball
+
+Image: COCO_test2014_000000381090.jpg
+Caption: a and plane the of
+
+Image: COCO_test2014_000000424421.jpg
+Caption: a on of snow in snow
+
+Image: COCO_test2014_000000455587.jpg
+Caption: a teddy and on of
+
+Image: COCO_test2014_000000486468.jpg
+Caption: a room a a a and with
+

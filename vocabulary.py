@@ -105,7 +105,7 @@ if __name__ == "__main__":
         "--output", type=str, default="outputs/vocab.pkl", help="Output vocabulary file"
     )
     parser.add_argument(
-        "--threshold", type=int, default=4, help="Minimum word frequency threshold"
+        "--threshold", type=int, default=1, help="Minimum word frequency threshold"
     )
 
     args = parser.parse_args()

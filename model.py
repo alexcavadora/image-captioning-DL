@@ -21,7 +21,7 @@ class EncoderCNN(nn.Module):
         super(EncoderCNN, self).__init__()
 
         # Load pretrained ResNet-50
-        resnet = models.resnet50(pretrained=pretrained)
+        resnet = models.resnet50(weights=models.ResNet50_Weights.DEFAULT)
 
         # Remove final classification layer
         modules = list(resnet.children())[:-1]
