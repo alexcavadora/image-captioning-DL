@@ -88,7 +88,7 @@ def parse_args():
 
     # Save/Load
     parser.add_argument(
-        "--save-every", type=int, default=1, help="Save checkpoint every N epochs"
+        "--save-every", type=int, default=5, help="Save checkpoint every N epochs"
     )
     parser.add_argument(
         "--resume", type=str, default=None, help="Resume from checkpoint"
